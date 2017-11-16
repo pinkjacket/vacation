@@ -1,4 +1,7 @@
 .jumbotron {
   background-image: url("../img/europa.jpg");
-  width: 100%;
+}
+
+.bronze {
+  background-color: #D07C12;
 }
