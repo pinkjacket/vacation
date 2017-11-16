@@ -4,4 +4,22 @@
 
 .bronze {
   background-color: #D07C12;
+  padding: 20px;
+}
+.silver {
+  background-color: #CBC9C6;
+  padding: 20px;
+}
+.gold {
+  background-color: #FFD359;
+  padding: 20px;
+}
+
+h3 {
+  text-align: center;
+}
+
+h6 {
+  font-style: oblique;
+  font-size: 20px;
 }
